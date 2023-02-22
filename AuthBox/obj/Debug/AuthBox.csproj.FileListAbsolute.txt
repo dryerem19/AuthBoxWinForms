@@ -1,0 +1,21 @@
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\bin\Debug\AuthBox.exe.config
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\bin\Debug\AuthBox.exe
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\bin\Debug\AuthBox.pdb
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csprojAssemblyReference.cache
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.Window.resources
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.Properties.Resources.resources
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.GenerateResource.cache
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.CoreCompileInputs.cache
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.exe
+C:\Users\Surv16893\Desktop\c#\AuthBox\AuthBox\obj\Debug\AuthBox.pdb
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\bin\Debug\AuthBox.exe.config
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\bin\Debug\AuthBox.exe
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\bin\Debug\AuthBox.pdb
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.AssemblyReference.cache
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.SuggestedBindingRedirects.cache
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.Window.resources
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.Properties.Resources.resources
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.GenerateResource.cache
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.csproj.CoreCompileInputs.cache
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.exe
+D:\бэкапы\рабочий стол\c#\AuthBox\AuthBox\obj\Debug\AuthBox.pdb
